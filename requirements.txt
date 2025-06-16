@@ -10,3 +10,4 @@ BeautifulSoup == 3.2.1
 google_api_python_client == 1.4.1
 configparser == 3.5.0b2
 imgurpython == 1.1.6
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
